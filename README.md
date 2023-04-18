@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobinath7878&label=Profile%20views&color=0e75b6&style=flat" alt="gobinath7878" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobinath7878" alt="gobinath7878" /></a> </p>
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://gona-portfolio-78.netlify.app](https://gona-portfolio-78.netlify.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React,Node.js**
 
 - 📫 How to reach me **gobinaths7878@gmail.com**
 
@@ -19,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gobinath s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gobinath s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
